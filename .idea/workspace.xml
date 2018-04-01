@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27552ebd-da1b-4701-a800-b80b358f6e31" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datasets/imagenet/build_imagenet_data.pbs" afterPath="$PROJECT_DIR$/datasets/imagenet/build_imagenet_data.pbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datasets/imagenet/build_imagenet_data.py" afterPath="$PROJECT_DIR$/datasets/imagenet/build_imagenet_data.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datasets/imagenet/extract_data_from_archive.pbs" afterPath="$PROJECT_DIR$/datasets/imagenet/extract_data_from_archive.pbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run_scripts/inception_imagenet_distributed_train.pbs" afterPath="$PROJECT_DIR$/run_scripts/inception_imagenet_distributed_train.pbs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,8 +17,8 @@
       <file leaf-file-name="inception_imagenet_distributed_train.pbs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/run_scripts/inception_imagenet_distributed_train.pbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="64" column="19" lean-forward="false" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
+            <state relative-caret-position="270">
+              <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -79,6 +77,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/datasets/imagenet/extract_data_from_archive.pbs" />
+        <option value="$PROJECT_DIR$/run_scripts/inception_imagenet_distributed_train.pbs" />
       </list>
     </option>
   </component>
@@ -550,8 +549,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/run_scripts/inception_imagenet_distributed_train.pbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="64" column="19" lean-forward="false" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
+        <state relative-caret-position="270">
+          <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
           <folding />
         </state>
       </provider>

@@ -15,6 +15,8 @@
 ##PBS -M nowhere@illinois.edu
 ### In case of multiple allocations, select which one to charge
 ##PBS -A xyz
+#PBS -q high
+#PBS -l flags=commtransparent
 
 # NOTE: lines that begin with "#PBS" are not interpreted by the shell but ARE 
 # used by the batch system, wheras lines that begin with multiple # signs, 

@@ -130,7 +130,7 @@ tf.app.flags.DEFINE_string('output_directory', '/tmp/',
 tf.app.flags.DEFINE_integer('shards', 1024,
                             'Number of shards in training TFRecord files.')
 
-tf.app.flags.DEFINE_string('data_list_file', 'training_files.txt',
+tf.app.flags.DEFINE_string('data_list_file', 'train_files.txt',
                            ('contains a list of the base image file name '
                             'and the corresponding synset that the annotation '
                             'is found in.'))

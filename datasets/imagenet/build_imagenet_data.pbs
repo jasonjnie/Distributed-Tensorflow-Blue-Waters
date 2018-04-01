@@ -15,6 +15,7 @@
 ##PBS -M nowhere@illinois.edu
 ### In case of multiple allocations, select which one to charge
 ##PBS -A xyz
+#PBS -q high
 
 # NOTE: lines that begin with "#PBS" are not interpreted by the shell but ARE 
 # used by the batch system, wheras lines that begin with multiple # signs, 
@@ -47,7 +48,7 @@ module load tensorflow
 
 echo "Starting"
 MODE="train"
-#MODE="validation"
+# MODE="validation"
 
 
 RAW_DATA_DIR="${HOME}/scratch/ImageNet/raw-imagenet/$MODE"

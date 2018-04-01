@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27552ebd-da1b-4701-a800-b80b358f6e31" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datasets/imagenet/build_imagenet_data.pbs" afterPath="$PROJECT_DIR$/datasets/imagenet/build_imagenet_data.pbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datasets/imagenet/build_imagenet_data.py" afterPath="$PROJECT_DIR$/datasets/imagenet/build_imagenet_data.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datasets/imagenet/extract_data_from_archive.pbs" afterPath="$PROJECT_DIR$/datasets/imagenet/extract_data_from_archive.pbs" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="inception_imagenet_distributed_train.pbs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/run_scripts/inception_imagenet_distributed_train.pbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="64" column="19" lean-forward="false" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="extract_data_from_archive.pbs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/datasets/imagenet/extract_data_from_archive.pbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="16" lean-forward="false" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build_imagenet_data.pbs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/datasets/imagenet/build_imagenet_data.pbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="54" column="34" lean-forward="true" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inception_imagenet_distributed_train.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BWDistributedTrain/inception_imagenet_distributed_train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="116" column="16" lean-forward="false" selection-start-line="116" selection-start-column="7" selection-end-line="116" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>NUM_STEPS</find>
+      <find>$DATA_DIR</find>
+      <find>$NUM_STEPS</find>
+      <find>DATA_DIR</find>
+      <find>inception</find>
+      <find>ince</find>
+      <find>scra</find>
+      <find>BATCH_SIZE</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/datasets/imagenet/extract_data_from_archive.pbs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="778" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Distributed-Tensorflow-Blue-Waters" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Distributed-Tensorflow-Blue-Waters" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Distributed-Tensorflow-Blue-Waters" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Distributed-Tensorflow-Blue-Waters" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="run_scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Distributed-Tensorflow-Blue-Waters" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Distributed-Tensorflow-Blue-Waters" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Distributed-Tensorflow-Blue-Waters" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Distributed-Tensorflow-Blue-Waters" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="datasets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Distributed-Tensorflow-Blue-Waters" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Distributed-Tensorflow-Blue-Waters" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="datasets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imagenet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Distributed-Tensorflow-Blue-Waters" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Distributed-Tensorflow-Blue-Waters" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BWDistributedTrain" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Distributed-Tensorflow-Blue-Waters" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Distributed-Tensorflow-Blue-Waters" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Distributed-Tensorflow-Blue-Waters" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Distributed-Tensorflow-Blue-Waters" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27552ebd-da1b-4701-a800-b80b358f6e31" name="Default" comment="" />
+      <created>1522460489625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522460489625</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1280" height="778" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25767368" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/run_scripts/inception_imagenet_distributed_train.pbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BWDistributedTrain/inception_imagenet_distributed_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="21" column="35" lean-forward="false" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/benchmarks/scripts/tf_cnn_benchmarks/trivial_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BWDistributedTrain/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_scripts/inception_imagenet_distributed_train.pbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BWDistributedTrain/inception_imagenet_distributed_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="21" column="35" lean-forward="false" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/benchmarks/scripts/tf_cnn_benchmarks/trivial_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BWDistributedTrain/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BWDistributedTrain/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/benchmarks/scripts/tf_cnn_benchmarks/tf_cnn_benchmarks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/benchmarks/scripts/tf_cnn_benchmarks/trivial_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/imagenet/build_imagenet_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="649" column="49" lean-forward="false" selection-start-line="649" selection-start-column="40" selection-end-line="649" selection-end-column="49" />
+          <folding>
+            <marker date="1521409791810" expanded="true" signature="5817:5986" ph="'...'" />
+            <marker date="1521409791810" expanded="true" signature="6228:7059" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="7219:7876" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="8470:8659" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="8688:8877" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="8906:9043" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="9079:9154" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="9194:9278" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="9395:11299" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="9398:10098" ph="&quot;&quot;&quot;Build an Example proto for an example....&quot;&quot;&quot;" />
+            <marker date="1521409791810" expanded="true" signature="10163:10348" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="10476:11279" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="11327:12770" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="11420:12231" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="12269:12380" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="12418:12530" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="12568:12770" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="12795:13119" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="12798:12968" ph="&quot;&quot;&quot;Determine if a file contains a PNG format image....&quot;&quot;&quot;" />
+            <marker date="1521409791810" expanded="true" signature="12971:13076" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="13145:14151" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="13148:13353" ph="&quot;&quot;&quot;Determine if file contains a CMYK JPEG format image....&quot;&quot;&quot;" />
+            <marker date="1521409791810" expanded="true" signature="13356:13426" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="13442:14104" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="14190:15224" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="14193:14542" ph="&quot;&quot;&quot;Process a single image file....&quot;&quot;&quot;" />
+            <marker date="1521409791810" expanded="true" signature="14674:14799" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="14826:14972" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="15422:18428" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="15425:16352" ph="&quot;&quot;&quot;Processes and saves list of images as TFRecord in 1 thread....&quot;&quot;&quot;" />
+            <marker date="1521409791810" expanded="true" signature="16355:16547" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="16973:18279" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="17418:18092" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="17912:18092" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="18630:21147" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="18633:19473" ph="&quot;&quot;&quot;Process and save list of images as TFRecord of Example protos....&quot;&quot;&quot;" />
+            <marker date="1521409791810" expanded="true" signature="19787:19949" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="20089:20152" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="20160:20231" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="20548:20667" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="20733:21023" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="20800:21023" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="21198:24211" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="21201:21991" ph="&quot;&quot;&quot;Build a list of all images files and labels in the data set....&quot;&quot;&quot;" />
+            <marker date="1521409791810" expanded="true" signature="22415:22570" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="22575:23140" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="23208:23618" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="23508:23618" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="23622:23809" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="24272:24728" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="24275:24580" ph="&quot;&quot;&quot;Build a list of human-readable labels....&quot;&quot;&quot;" />
+            <marker date="1521409791810" expanded="true" signature="24614:24712" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="24810:27276" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="24813:25405" ph="&quot;&quot;&quot;Find the bounding boxes for a given image file....&quot;&quot;&quot;" />
+            <marker date="1521409791810" expanded="true" signature="25445:25672" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="26016:26136" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="26191:26834" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="26558:26834" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="26737:26832" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="27471:28291" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="27474:27893" ph="&quot;&quot;&quot;Process a complete data set and save it as a TFRecord....&quot;&quot;&quot;" />
+            <marker date="1521409791810" expanded="true" signature="28343:29217" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="28346:28921" ph="&quot;&quot;&quot;Build lookup for synset to human-readable label....&quot;&quot;&quot;" />
+            <marker date="1521409791810" expanded="true" signature="29032:29192" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="29042:29192" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="29270:30702" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="29273:29991" ph="&quot;&quot;&quot;Build a lookup from image file to bounding boxes....&quot;&quot;&quot;" />
+            <marker date="1521409791810" expanded="true" signature="30129:30575" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="30139:30575" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="30447:30510" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="30585:30651" ph="'...'" />
+            <marker date="1521409791810" expanded="true" signature="30727:31964" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="30754:31231" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="31116:31231" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="31239:31964" ph="..." />
+            <marker date="1521409791810" expanded="true" signature="31350:31454" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/imagenet/map.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-194">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BWDistributedTrain/inception_imagenet_distributed_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="116" column="16" lean-forward="false" selection-start-line="116" selection-start-column="7" selection-end-line="116" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/imagenet/extract_data_from_archive.pbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="16" lean-forward="false" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/imagenet/build_imagenet_data.pbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="54" column="34" lean-forward="true" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_scripts/inception_imagenet_distributed_train.pbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="64" column="19" lean-forward="false" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

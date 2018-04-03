@@ -9,7 +9,7 @@ from itertools import groupby
 from itertools import chain
 
 path_to_inception = os.path.join(*[os.path.dirname(os.path.abspath(__file__)),
-                                   '..', 'models', 'research', 'inception'])
+                                   '..', 'models', 'research', 'inception', 'inception'])
 sys.path.append(path_to_inception)
 
 # Constants dictating the learning rate schedule.
@@ -29,7 +29,7 @@ DIST_TF_PS_PORT = 2223
 
 def inception_imagenet_distributed_train():
   '''
-  This function is a boiler plate to illistrate the main steps in training a inference
+  This function is a boiler plate to illustrate the main steps in training a inference
   graph in distributed TensorFlow
   '''
 

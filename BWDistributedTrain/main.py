@@ -6,7 +6,7 @@ import time
 import random
 
 path_to_inception = os.path.join(*[os.path.dirname(os.path.abspath(__file__)),
-                                   '..', 'models', 'research', 'inception'])
+                                   '..', 'models', 'research', 'inception', 'inception'])
 sys.path.append(path_to_inception)
 from itertools import groupby
 from itertools import chain

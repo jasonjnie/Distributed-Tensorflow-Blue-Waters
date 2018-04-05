@@ -14,7 +14,7 @@
 ##PBS -m bea
 ##PBS -M nowhere@illinois.edu
 ### In case of multiple allocations, select which one to charge
-##PBS -A xyz
+#PBS -A banw
 #PBS -q high
 #PBS -l flags=commtransparent
 

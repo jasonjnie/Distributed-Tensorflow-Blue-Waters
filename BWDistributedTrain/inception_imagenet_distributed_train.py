@@ -10,7 +10,8 @@ from itertools import chain
 
 path_to_inception = os.path.join(*[os.path.dirname(os.path.abspath(__file__)),
                                    '..', 'models', 'research', 'inception', 'inception'])
-sys.path.append(path_to_inception)
+sys.path.insert(1, path_to_inception)
+#sys.path.append(path_to_inception)
 
 # Constants dictating the learning rate schedule.
 RMSPROP_DECAY = 0.9                # Decay term for RMSProp.

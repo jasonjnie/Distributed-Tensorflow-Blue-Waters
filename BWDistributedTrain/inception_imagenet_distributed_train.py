@@ -12,6 +12,12 @@ path_to_inception = os.path.join(*[os.path.dirname(os.path.abspath(__file__)), '
 sys.path.insert(1, path_to_inception)
 #sys.path.append(path_to_inception)
 
+import tensorflow as tf
+from tensorflow.python.ops import data_flow_ops
+from inception.imagenet_data import ImagenetData
+from inception import inception_model as inception
+from inception.image_processing import batch_inputs
+
 # Constants dictating the learning rate schedule.
 RMSPROP_DECAY = 0.9                # Decay term for RMSProp.
 RMSPROP_MOMENTUM = 0.9             # Momentum in RMSProp.
@@ -111,15 +117,13 @@ def inception_imagenet_distributed_train():
       comm.barrier()
 
     num_workers = len(unique_hostnames)
-    
+  '''
   import tensorflow as tf
-  path_to_inception = os.path.join(*[os.path.dirname(os.path.abspath(__file__)), '..', 'models', 'research', 'inception'])
-  sys.path.insert(1, path_to_inception)
-  print(sys.path)
   from tensorflow.python.ops import data_flow_ops
   from inception.imagenet_data import ImagenetData
   from inception import inception_model as inception
   from inception.image_processing import batch_inputs
+  '''
   
   tf.flags.DEFINE_string('checkpoint_dir', 'checkpoint_dir', 'the directory to sore training check poinrts.')
   tf.flags.DEFINE_integer('num_ps', 1, 'number of parameters servers')

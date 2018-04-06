@@ -8,8 +8,7 @@ import random
 from itertools import groupby
 from itertools import chain
 
-path_to_inception = os.path.join(*[os.path.dirname(os.path.abspath(__file__)),
-                                   '..', 'models', 'research', 'inception', 'inception'])
+path_to_inception = os.path.join(*[os.path.dirname(os.path.abspath(__file__)), '..', 'models', 'research', 'inception'])
 sys.path.insert(1, path_to_inception)
 #sys.path.append(path_to_inception)
 

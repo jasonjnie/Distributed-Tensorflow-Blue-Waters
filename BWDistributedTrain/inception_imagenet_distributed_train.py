@@ -113,6 +113,9 @@ def inception_imagenet_distributed_train():
     num_workers = len(unique_hostnames)
     
   import tensorflow as tf
+  path_to_inception = os.path.join(*[os.path.dirname(os.path.abspath(__file__)), '..', 'models', 'research', 'inception'])
+  sys.path.insert(1, path_to_inception)
+  print(sys.path)
   from tensorflow.python.ops import data_flow_ops
   from inception.imagenet_data import ImagenetData
   from inception import inception_model as inception
